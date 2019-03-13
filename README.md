@@ -1,6 +1,6 @@
 # End_to_end_Age_Height_estimation_speech
 To predict the speaker height and age without training the model use the python file in 
-scripts/cnn_fstat_2output_HT_age_predict.py
+predict_without_training/scripts/cnn_fstat_2output_HT_age_predict.py
 
 The input the script is
    1. path to your 60 MFCC features.
